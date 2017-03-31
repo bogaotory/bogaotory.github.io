@@ -1,0 +1,85 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Faculty of Engineering and the Environment <br/> University of Southampton
+    i18n: uos
+  desc:
+    detail: Road transportation is about to experience a paradigm shift towards semi­ and fully­ autonomous vehicles in which new systems for traffic detection, communications and advanced control will be of paramount importance to insure traffic safety and efficiency. <br/><br/> Our task is to investigate and develop a simulation platform for studying the impacts of introducing autonomous vehicles in to existing traffic streams and demonstrating where further efficiencies might be achieved, particularly in traffic control strategies. In partnership with Transportation Systems Catapult, I'm also developing a library of network models and APIs as an open-source test bed for traffic control strategies.
+    i18n: company_a_desc
+  date:
+    detail: Mar. 2017
+    i18n: company_a_date
+  job:
+    detail: Research Fellow
+    i18n: research_fello
+  icon: fa-car
+
+- name:
+    detail: Warwick Systems Biology Centre <br/> Zeeman Institute
+    i18n: zeeman
+  desc:
+    detail: As part of the CyVerse UK team, our task was to develop, improve and integrate research (bioinformatics) applications to the UK node of the Cyverse (formerly known as iPlant Collaborative) platform. The scope of these applications covers a wide range of research, including genome-side association projects exploiting natural variation in crops, predicting biological networks and pathways, and the high-throughput imaging and image analysis services that take researchers one step closer to fully understanding which genes are linked to specific traits in plants.
+    i18n: cyverse_uk
+  date:
+    detail: Aug. 2015
+    i18n: aug_2015
+  job:
+    detail: Post Doc
+    i18n: post_doc
+  icon: fa-server
+
+- name:
+    detail: Department of Computer Science <br/> University of Warwick
+    i18n: dcs
+  desc:
+    detail: I started my PhD research with modelling and solving the workload placement problem of an emerging topic called Mobile Cloud Computing. I came across many issues such as algorithm efficiency and optimality and solved them with the best of my ability. <br/><br/> Towards the end of my PhD, I wrapped up the work with a complete rethinking of the Mobile Cloud Computing paradigm and developed a new way of analysing the application ecosystem that spans over mobile and cloud hardwares by extending the classic load-balancing game of Game Theory.
+    i18n: mobile_cloud_computing
+  date:
+    detail: Jul. 2011
+    i18n: jul_2011
+  job:
+    detail: PhD Candidate
+    i18n: phd
+  icon: fa-graduation-cap
+
+- name:
+    detail: Unipart Technology Logistics
+    i18n: utl
+  desc:
+    detail: Lead the development of an ad-hoc forecast system, which helped UTL reduced its inventory by GBP200k in 2010 and increased its stock turn by two units. Success of the forecast system contributed greatly towards UTL's winning of the Mobile News Award in the Best Service & Repair category in the 2011. The system is still in regular use by the company to date. Beside the forecast system, I also delivered 70+ projects in total, for various departments of UTL including Demand Planning, Finance and HR.
+    i18n: utl_analyst
+  date:
+    detail: Feb. 2009
+    i18n: feb_2009
+  job:
+    detail: Forecast Analyst
+    i18n: analyst
+  icon: fa-bar-chart
+
+- name:
+    detail: MSc in Computer Science and Applications <br/> University of Warwick
+    i18n: msc
+  desc:
+    detail: Graduated with Distinction
+    i18n: msc_warwick
+  date:
+    detail: Oct. 2007
+    i18n: oct_2007
+  job:
+    detail: MSc
+    i18n: msc
+  icon: fa-graduation-cap
+
+- name:
+    detail: BA in Business Computing <br/> Coventry University
+    i18n: ba
+  desc:
+    detail: Graduated with First Class Honours
+    i18n: ba_cov
+  date:
+    detail: Oct. 2004
+    i18n: oct_2004
+  job:
+    detail: BA
+    i18n: ba
+  icon: fa-graduation-cap

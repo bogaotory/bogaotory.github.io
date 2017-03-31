@@ -1,0 +1,30 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Traffic Control Test Set
+  i18n: tctester
+  gh_user: intelaligent
+  repo: tctester
+  img: /static/assets/img/landing/avatar.jpg
+  desc: A standard set of microsimulation models and test configurations for the evaluation of traffic control systems.
+
+- name: CyVerse iRODS
+  i18n: irods-cyverse
+  gh_user: bogaotory
+  repo: irods-cyverse
+  img: /static/assets/img/landing/avatar.jpg
+  desc: This is an example project to demonstrate how to dockerise a CyVerse-compatible iRODS server. As well as an ICAT-Enabled Server (IES), this project also builds an AMQP Server and an iCommand-Enabled client to demonstrate how a minimum CyVerse-compatible iRODS server work.
+
+- name: APPLES
+  i18n: apples
+  gh_user: cyversewarwick
+  repo: apples
+  img: /static/assets/img/landing/avatar.jpg
+  desc: APPLES is a set of tools to analyse promoter sequences on a genome-wide scale.
+
+- name: Dockerised Perl Toolchain
+  i18n: docker-perl-toolchain
+  gh_user: bogaotory
+  repo: docker-perl-toolchain
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Build a docker image which includes the plenv + cpanm + carton Perl toolchain.

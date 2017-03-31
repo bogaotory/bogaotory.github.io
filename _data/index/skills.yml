@@ -1,0 +1,6 @@
+# skills section data
+
+label: Experiences
+id : cs
+aspects: Mobile Cloud Computing, Service-Oriented Computing, Game Theory, Optimisation Problems, Intelligent Transport Systems, Autonomous Vehicles, VANET, MaaS
+percentage: 90, 80, 60, 90, 60, 60, 50, 40
