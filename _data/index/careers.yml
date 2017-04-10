@@ -15,6 +15,20 @@
   icon: fa-car
 
 - name:
+    detail: Winners of the Faculty of Science Doctoral Thesis Awards 2016
+    i18n: thesisaward2016
+  desc:
+    detail: Joint <strong>winner</strong> of the <a href="http://www2.warwick.ac.uk/fac/sci/news/facadminews/thesisprize2016">Faculty of Science Doctoral Thesis Awards 2016</a>
+    i18n: thesis_award
+  date:
+    detail: Apr. 2016
+    i18n: apr_2016
+  job:
+    detail: Thesis Award
+    i18n: thesis_award
+  icon: fa-trophy
+
+- name:
     detail: Warwick Systems Biology Centre <br/> Zeeman Institute
     i18n: zeeman
   desc:
@@ -27,6 +41,20 @@
     detail: Post Doc
     i18n: post_doc
   icon: fa-server
+
+- name:
+    detail: Department of Computer Science <br/> University of Warwick
+    i18n: dcs
+  desc:
+    detail: I TA-ed for a few modules (MSc and BSc) during my time as a PhD student, including <ul><li>Foundations of Data Analytics</li><li>Data Mining</li><li>High Performance Computing</li><li>Mathematics for Computer Scientists II</li><li>Mathematics for Computer and Business Studies</li><li>Introduction to Computer Security</li><li>Web Development Technologies</li></ul>
+    i18n: mobile_cloud_computing
+  date:
+    detail: Jul. 2011
+    i18n: jul_2011
+  job:
+    detail: Teaching Assistant
+    i18n: ta
+  icon: fa-pencil
 
 - name:
     detail: Department of Computer Science <br/> University of Warwick
@@ -60,7 +88,7 @@
     detail: MSc in Computer Science and Applications <br/> University of Warwick
     i18n: msc
   desc:
-    detail: Graduated with Distinction
+    detail: Graduated with <strong>Distinction</strong>
     i18n: msc_warwick
   date:
     detail: Oct. 2007
@@ -74,7 +102,7 @@
     detail: BA in Business Computing <br/> Coventry University
     i18n: ba
   desc:
-    detail: Graduated with First Class Honours
+    detail: Graduated with <strong>First Class Honours</strong>
     i18n: ba_cov
   date:
     detail: Oct. 2004
@@ -82,4 +110,18 @@
   job:
     detail: BA
     i18n: ba
+  icon: fa-graduation-cap
+
+- name:
+    detail: HND in Computing <br/> Henley College Coventry
+    i18n: hnd
+  desc:
+    detail: Graduated with <strong>Distinction</strong>
+    i18n: hnd
+  date:
+    detail: Oct. 2003
+    i18n: oct_2003
+  job:
+    detail: HND
+    i18n: hnd
   icon: fa-graduation-cap

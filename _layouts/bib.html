@@ -1,0 +1,17 @@
+---
+---
+{{ reference }}
+{% if links.pdf %}
+[<a href="{{links.pdf}}">PDF</a>]
+{% endif %}
+{% if links.bib %}
+[<a href="{{links.bib}}">BIBTEX</a>]
+{% endif %}
+{% if links['slides.pdf'] %}
+[<a href="{{links['slides.pdf']}}">SLIDES</a>]
+{% endif %}
+
+{% if entry.abstract %}
+<p>{{ entry.abstract }}</p>
+{% endif %}
+<!-- <pre>{{ entry.bibtex }}</pre> -->

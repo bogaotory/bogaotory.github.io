@@ -1,18 +1,18 @@
 # links section data
-- last_name: Transportation Research Group<br/>Faculty of Engineering and the Environment
+- last_name: Faculty of Engineering and the Environment
   first_name:  <br/> University of Southampton
   desc: Research Fellow
   website: http://www.southampton.ac.uk/engineering/about/staff/bg1f17.page?
   email: b.gao@soton.ac.uk
 
-- last_name: IntelAligent
-  first_name: Transport Research
-  desc: Project Repository
-  website: https://github.com/intelaligent
+- last_name: Google
+  first_name:  Scholar
+  desc: Publications List
+  website: https://scholar.google.co.uk/citations?user=oGNfmqwAAAAJ&hl=en
   email: b.gao@soton.ac.uk
 
-- last_name: bogaotory
-  first_name: 
-  desc: My Repository
-  website: https://github.com/bogaotory
+- last_name: IntelAligent
+  first_name: Transport Research
+  desc: Repository Owner
+  website: https://github.com/intelaligent
   email: b.gao@soton.ac.uk
