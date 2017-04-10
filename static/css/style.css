@@ -3084,7 +3084,7 @@ a.forum-item-title:hover {
 
 .vertical-timeline-content p {
     margin: 1em 0;
-    line-height: 1.6
+    line-height: 1.8
 }
 
 .vertical-timeline-content .vertical-date {
@@ -6234,7 +6234,7 @@ table.shoping-cart-table tr td:last-child {
 .vote-icon {
     text-align: right;
     font-size: 38px;
-    color: #e8e9ea
+    color: #777
 }
 
 .lightBoxGallery,
@@ -7308,7 +7308,7 @@ body.body-small .vote-icon {
 }
 
 body.landing-page {
-    color: #676a6c;
+    color: #333;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
     background-color: #fff
 }
@@ -7331,7 +7331,7 @@ body.landing-page {
 }
 
 .landing-page section p {
-    color: #aeaeae;
+    color: #333;
     font-size: 13px
 }
 
