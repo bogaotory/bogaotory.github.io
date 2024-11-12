@@ -21,7 +21,7 @@
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
     "chart.js": "^2.4.0",
-    "colors": "^1.1.2",
+    "colors": ">=1.4.1",
     "components-font-awesome": "^4.7.0",
     "font-mfizz": "^2.3.0",
     "gritter": "^1.7.4",
@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "clean-css": "^4.0.6",
-    "shelljs": "^0.7.6",
+    "shelljs": ">=0.8.5",
     "uglify-js": "^2.7.5"
   }
 }
